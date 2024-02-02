@@ -1,0 +1,35 @@
+body{
+  background-color: floralwhite;
+  font-family: sans-serif;
+  line-height: 1.8;
+  text-align: justify;
+  padding: 20px 0 40px;
+  margin-left: 50px;
+}
+h1, h3{
+  text-align: center;
+}
+input:hover{
+  padding: 5px;
+}
+select:hover{
+  background-color: rgb(213, 235, 255);
+}
+footer{
+  text-align: center;
+  font-weight: 500;
+}
+button{
+  border: none;
+  padding: 12px 50px;
+  text-align: center;
+  display: inline-block;
+  font-size: 25px;
+  border-radius: 10px;
+  margin-left: 500px; 
+  margin-top: 5px;
+  background-color: red;
+}
+button:hover{
+color: white;
+}
